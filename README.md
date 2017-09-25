@@ -20,7 +20,7 @@ Because Theano now only supports to cuDNN with version 5.1. And the project deep
 
 
 # Install
-First, install [cuda](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/cuda) and [cuDNN](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/cuda/cuDNN).
+First, install [cuda](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/cuda) and [cuDNN](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/cuDNN).
 Secondly, install Theano and gpuarray.
 
 # Run
