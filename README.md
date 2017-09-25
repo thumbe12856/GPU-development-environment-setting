@@ -4,7 +4,7 @@ Note that, all tool's version are important!
 
 # Dependencies
 - [Ubuntu 16.04](http://breakdance.io)
-- Nvidia GPU
+- NVIDIA GPU
   - [Cuda 8.0](https://developer.nvidia.com/cuda-download)
   - [cuDNN 5.0](https://developer.nvidia.com/cudnn)
 - Deep Learning tool
@@ -16,5 +16,12 @@ Note that, all tool's version are important!
   - [deep_q_rl](https://github.com/spragunr/deep_q_rl)
   - [Q-Optimality-Tightening](https://github.com/ShibiHe/Q-Optimality-Tightening)
 
-Because Theano now only supports to cuDNN with version 5.1. And the project deep_q_rl (https://github.com/spragunr/deep_q_rl) need gpuarray at least version 7.0, for now, can not install gpuarray from github. Please make sure the version of Theano is compatible with the one of Lasagne.
+Because Theano now only supports to cuDNN with version 5.1. And the project deep_q_rl (https://github.com/spragunr/deep_q_rl) need gpuarray with version 7.0 or newer, for now, can not install gpuarray from github. Please make sure the version of Theano is compatible with the one of Lasagne.
 
+
+# Install
+First, install cuda and cuDNN.
+Secondly, install Theano and gpuarray.
+
+# Run
+Finally, testing with Deep Learning projects.
