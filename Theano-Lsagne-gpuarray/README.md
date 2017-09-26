@@ -1,4 +1,4 @@
-# Install Theano
+# Install Theano, Lasagne and gpuarray
 Before install Theano, there are some python dependencies, conda, virtaulenv, and [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment), [Pylearn2](https://github.com/lisa-lab/pylearn2) and theano configuration to set up.
 
 First, set pip configuration.
