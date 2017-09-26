@@ -102,9 +102,11 @@ The test function will test all pygpu function, and then output witch function i
 ```
 $ python -c "import pygpu; pygpu.test()"
 ```
-Install Lasagne.
+Install Lasagne, and update is and Theano.
 ```
 $ pip install Lasagne==0.1
+$ pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
+$ pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
 ```
 Install powerful python library, [Pylearn2](https://github.com/lisa-lab/pylearn2): a machine learning research library.
 ```
