@@ -104,7 +104,6 @@ $ python -c "import pygpu; pygpu.test()"
 ```
 Install Lasagne.
 ```
-$ pip install theano==0.8.2
 $ pip install Lasagne==0.1
 ```
 Install powerful python library, [Pylearn2](https://github.com/lisa-lab/pylearn2): a machine learning research library.
