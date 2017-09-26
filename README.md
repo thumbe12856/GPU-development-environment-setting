@@ -1,5 +1,5 @@
 # GPU development environment setting
-This is for Ubuntu16.04 with cuda8.0. Using python library, Theano, to implement deep learning with Nvidia GPU.
+This is for Ubuntu16.04 with cuda8.0. Using python library, Theano, Lasagne, and libgpuarray to implement deep learning with Nvidia GPU.
 Note that, all tool's version are important!
 
 # Dependencies
@@ -21,7 +21,7 @@ Because Theano now only supports to cuDNN with version 5.1. And the project deep
 
 # Install
 First, install [cuda](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/cuda) and [cuDNN](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/cuDNN).
-Secondly, install Theano and gpuarray.
+Secondly, install [Theano, Lasagne and gpuarray](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/Theano-Lsagne-gpuarray).
 
 # Run
 Finally, testing with Deep Learning projects.
