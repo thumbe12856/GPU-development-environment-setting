@@ -3,7 +3,7 @@ This is for Ubuntu16.04 with cuda8.0. Using python library, Theano, Lasagne, and
 Note that, all tool's version are important!
 
 # Dependencies
-- [Ubuntu 16.04](http://breakdance.io)
+- [Ubuntu 16.04](https://www.ubuntu.com/download/desktop)
 - NVIDIA GPU
   - [Cuda 8.0](https://developer.nvidia.com/cuda-download)
   - [cuDNN 5.0](https://developer.nvidia.com/cudnn)
