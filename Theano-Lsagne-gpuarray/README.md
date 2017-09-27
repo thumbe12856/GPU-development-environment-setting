@@ -104,7 +104,9 @@ $ python -c "import pygpu; pygpu.test()"
 ```
 Install Lasagne, and update is and Theano.
 ```
+$ pip install theano==0.8.2
 $ pip install Lasagne==0.1
+
 $ pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 $ pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
 ```
