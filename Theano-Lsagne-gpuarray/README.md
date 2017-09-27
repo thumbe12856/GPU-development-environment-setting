@@ -102,7 +102,7 @@ The test function will test all pygpu function, and then output witch function i
 ```
 $ python -c "import pygpu; pygpu.test()"
 ```
-Install Lasagne, and update is and Theano.
+Install Lasagne, and update it and Theano.
 ```
 $ pip install theano==0.8.2
 $ pip install Lasagne==0.1
