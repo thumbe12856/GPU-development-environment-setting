@@ -9,7 +9,7 @@ Note that, all tool's version are important!
   - [cuDNN 5.0](https://developer.nvidia.com/cudnn)
 - Deep Learning tool
   - [Theano 0.9](https://github.com/Theano/Theano)
-  - [libgpuarray 0.7.3](http://deeplearning.net/software/libgpuarray/installation.html)
+  - [libgpuarray, pygpu 0.7.3](http://deeplearning.net/software/libgpuarray/installation.html)
   - [Lasagne 0.1](https://github.com/Lasagne/Lasagne)
   - [Arcade-Learning-Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
 - Deep Learning Project
