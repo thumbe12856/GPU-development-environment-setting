@@ -12,11 +12,13 @@ Note that, all tool's version are important!
   - [libgpuarray, pygpu 0.7.3](http://deeplearning.net/software/libgpuarray/installation.html)
   - [Lasagne 0.1](https://github.com/Lasagne/Lasagne)
   - [Arcade-Learning-Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
+  - [Pylearn2](https://github.com/lisa-lab/pylearn2)
 - Deep Learning Project
   - [deep_q_rl](https://github.com/spragunr/deep_q_rl)
   - [Q-Optimality-Tightening](https://github.com/ShibiHe/Q-Optimality-Tightening)
 
-Because Theano now only supports to cuDNN with version 5.1. And the project deep_q_rl (https://github.com/spragunr/deep_q_rl) need gpuarray with version 0.7.0 or newer, for now, can not install gpuarray from github. Please make sure the version of Theano is compatible with the one of Lasagne.
+Because Theano now only supports to cuDNN with version 5.1. And the project deep_q_rl (https://github.com/spragunr/deep_q_rl) needs gpuarray with version 0.7.0 or newer, for now, can not install gpuarray from github.
+Please make sure the version of Theano is compatible with the one of Lasagne!
 
 
 # Install
