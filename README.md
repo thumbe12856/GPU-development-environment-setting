@@ -25,3 +25,6 @@ Secondly, install [Theano, Lasagne and gpuarray](https://github.com/thumbe12856/
 
 # Run
 Finally, testing with Deep Learning projects.
+- [Lasagne MNIST](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/test/Lasagne-MNIST)
+- [Q-Optimality-Tightening](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/test/Q-Optimality-Tightening)
+- [deep_q_rl](https://github.com/thumbe12856/GPU-development-environment-setting/tree/master/test/deep_q_rl)
