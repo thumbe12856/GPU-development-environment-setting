@@ -17,7 +17,7 @@ RuntimeError: Could not find cudnn library
 
 You may reset the cudnn path.
 ```
-$ cd folder/extracted/contents
+$ cd ~/cuDNN/cuda
 $ sudo cp -P include/cudnn.h /usr/include
 $ sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 $ sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*

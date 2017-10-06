@@ -17,7 +17,7 @@ Note that, all tool's version are important!
   - [deep_q_rl](https://github.com/spragunr/deep_q_rl)
   - [Q-Optimality-Tightening](https://github.com/ShibiHe/Q-Optimality-Tightening)
 
-Because Theano now only supports to cuDNN with version 5.1. And the project deep_q_rl (https://github.com/spragunr/deep_q_rl) needs gpuarray with version 0.7.0 or newer, for now, can not install gpuarray from github.
+Because Theano now only supports to cuDNN with version 5.1. And the newest Theano version needs pygpu with version 0.7.0 or newer, for now, can not install gpuarray from github.
 Please make sure the version of Theano is compatible with the one of Lasagne!
 
 
