@@ -7,7 +7,7 @@ $ python minst.py
 ```
 
 # Result
-1. ```pygpu: 0.7.3, Theano: 0.10.0b3+126.g8dccbe6```
+1. ```pygpu: 0.7.3, Theano: 0.10.0b3+126.g8dccbe6```  
 (1) Result:
 - 0.25 sec for every epoch
 ![GTX1060-pygpu=0.7.3-minst-device=cuda0.png](https://raw.githubusercontent.com/thumbe12856/GPU-development-environment-setting/master/pictures/GTX1060-pygpu=0.7.3-minst-device=cuda0.png)
@@ -24,7 +24,7 @@ Equipment:
 - GTX750Ti 2GB
 - DEVICE = cuda0
 
-2. ```pygpu version = 0.6.9, , Theano: 0.9.0```
+2. ```pygpu version = 0.6.9, , Theano: 0.9.0```  
 (1)
 Result:
 - 0.53 sec for every epoch
