@@ -24,7 +24,7 @@ Equipment:
 
 Result:
 - 0.516 sec for every epoch
-![GTX1060-minst-device=cuda0.png](https://raw.githubusercontent.com/thumbe12856/GPU-development-environment-setting/master/pictures/GTX1060-minst-device=cuda0.png)
+![GTX750Ti-pygpu=0.7.3-minst-device=cuda0.png](https://raw.githubusercontent.com/thumbe12856/GPU-development-environment-setting/master/pictures/GTX750Ti-pygpu=0.7.3-minst-device=cuda0.png)
 
 
 #### 2. ```pygpu version = 0.6.9, , Theano: 0.9.0```  
